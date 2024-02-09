@@ -1,14 +1,16 @@
 # Sudoku Solver
 
+The name pretty much speaks for itself.
+
 ## Description
 
-A simple Sudoku solver implemented in C using the backtracking algorithm. This program allows you to input a Sudoku puzzle and solves it using a backtracking algorithm. It provides a command-line interface to interact with the solver. I coded this project by myself.
+This Sudoku solver is a simple C program that cracks puzzles using the backtracking algorithm.
 
 ## Features
 
-- Solves Sudoku puzzles of varying difficulty levels.
-- Provides a clear and readable command-line interface.
-- Demonstrates the use of backtracking algorithm for puzzle-solving.
+- Handles Sudoku puzzles of different difficulty levels.
+- Has a straightforward command-line interface.
+- Shows how the backtracking algorithm gets the job done.
 
 ## Getting Started
 
